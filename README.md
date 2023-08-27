@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thierryMurhondezi
-- 👀 I’m interested in AI Artificial Iinteligence and
-- Augmented Reality metaverses universes .. 
+- 👀 I’m interested in AI Artificial Iinteligence and Augmented Reality metaverses universes .. 
 - 🌱 I’m currently learning Javascript and Python ..
-- 💞️ I’m looking to collaborate an AI project whatver the sise...
+- 💞️ I’m looking to collaborate in AI project whatver the sise...
 - 📫 How to reach me "thierrymurhondezi@gmail.com"...
 
 <!---
